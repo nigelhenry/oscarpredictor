@@ -1,0 +1,134 @@
+"title","awarddate","won","nominated"
+"12 Years a Slave (2013)",2014-03-02,TRUE,TRUE
+"127 Hours (2010)",2011-02-27,FALSE,TRUE
+"Beautiful Mind, A (2001)",2002-03-24,TRUE,TRUE
+"Serious Man, A (2009)",2010-03-07,FALSE,TRUE
+"American Beauty (1999)",2000-03-26,TRUE,TRUE
+"American Hustle (2013)",2014-03-02,FALSE,TRUE
+"American Sniper (2014)",2015-02-22,FALSE,TRUE
+"Amour (2012)",2013-02-24,FALSE,TRUE
+"Education, An (2009)",2010-03-07,FALSE,TRUE
+"Apollo 13 (1995)",1996-03-25,FALSE,TRUE
+"Argo (2012)",2013-02-24,TRUE,TRUE
+"As Good as It Gets (1997)",1998-03-23,FALSE,TRUE
+"Atonement (2007)",2008-02-24,FALSE,TRUE
+"Avatar (2009)",2010-03-07,FALSE,TRUE
+"Babe (1995)",1996-03-25,FALSE,TRUE
+"Babel (2006)",2007-02-25,FALSE,TRUE
+"Beasts of the Southern Wild (2012)",2013-02-24,FALSE,TRUE
+"Birdman: Or (The Unexpected Virtue of Ignorance) (2014)",2015-02-22,TRUE,TRUE
+"Black Swan (2010)",2011-02-27,FALSE,TRUE
+"Boyhood (2014)",2015-02-22,FALSE,TRUE
+"Braveheart (1995)",1996-03-25,TRUE,TRUE
+"Bridge of Spies (2015)",2016-02-28,FALSE,TRUE
+"Brokeback Mountain (2005)",2006-03-05,FALSE,TRUE
+"Brooklyn (2015)",2016-02-28,FALSE,TRUE
+"Capote (2005)",2006-03-05,FALSE,TRUE
+"Captain Phillips (2013)",2014-03-02,FALSE,TRUE
+"Chicago (2002)",2003-03-23,TRUE,TRUE
+"Chocolat (2000)",2001-03-25,FALSE,TRUE
+"Crash (2004)",2006-03-05,TRUE,TRUE
+"Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000)",2001-03-25,FALSE,TRUE
+"Dallas Buyers Club (2013)",2014-03-02,FALSE,TRUE
+"District 9 (2009)",2010-03-07,FALSE,TRUE
+"Django Unchained (2012)",2013-02-24,FALSE,TRUE
+"Elizabeth (1998)",1999-03-21,FALSE,TRUE
+"Erin Brockovich (2000)",2001-03-25,FALSE,TRUE
+"Extremely Loud and Incredibly Close (2011)",2012-02-26,FALSE,TRUE
+"Fargo (1996)",1997-03-24,FALSE,TRUE
+"Finding Neverland (2004)",2005-02-27,FALSE,TRUE
+"Frost/Nixon (2008)",2009-02-22,FALSE,TRUE
+"Gangs of New York (2002)",2003-03-23,FALSE,TRUE
+"Gladiator (2000)",2001-03-25,TRUE,TRUE
+"Good Night, and Good Luck. (2005)",2006-03-05,FALSE,TRUE
+"Good Will Hunting (1997)",1998-03-23,FALSE,TRUE
+"Gosford Park (2001)",2002-03-24,FALSE,TRUE
+"Gravity (2013)",2014-03-02,FALSE,TRUE
+"Her (2013)",2014-03-02,FALSE,TRUE
+"Hugo (2011)",2012-02-26,FALSE,TRUE
+"In the Bedroom (2001)",2002-03-24,FALSE,TRUE
+"Inception (2010)",2011-02-27,FALSE,TRUE
+"Inglourious Basterds (2009)",2010-03-07,FALSE,TRUE
+"Jerry Maguire (1996)",1997-03-24,FALSE,TRUE
+"Juno (2007)",2008-02-24,FALSE,TRUE
+"L.A. Confidential (1997)",1998-03-23,FALSE,TRUE
+"Misérables, Les (2012)",2013-02-24,FALSE,TRUE
+"Letters from Iwo Jima (2006)",2007-02-25,FALSE,TRUE
+"Life Is Beautiful (La Vita è bella) (1997)",1999-03-21,FALSE,TRUE
+"Life of Pi (2012)",2013-02-24,FALSE,TRUE
+"Lincoln (2012)",2013-02-24,FALSE,TRUE
+"Little Miss Sunshine (2006)",2007-02-25,FALSE,TRUE
+"Lost in Translation (2003)",2004-02-29,FALSE,TRUE
+"Mad Max: Fury Road (2015)",2016-02-28,FALSE,TRUE
+"Master and Commander: The Far Side of the World (2003)",2004-02-29,FALSE,TRUE
+"Michael Clayton (2007)",2008-02-24,FALSE,TRUE
+"Midnight in Paris (2011)",2012-02-26,FALSE,TRUE
+"Milk (2008)",2009-02-22,FALSE,TRUE
+"Million Dollar Baby (2004)",2005-02-27,TRUE,TRUE
+"Moneyball (2011)",2012-02-26,FALSE,TRUE
+"Moulin Rouge (2001)",2002-03-24,FALSE,TRUE
+"Munich (2005)",2006-03-05,FALSE,TRUE
+"Mystic River (2003)",2004-02-29,FALSE,TRUE
+"Nebraska (2013)",2014-03-02,FALSE,TRUE
+"No Country for Old Men (2007)",2008-02-24,TRUE,TRUE
+"Philomena (2013)",2014-03-02,FALSE,TRUE
+"Precious (2009)",2010-03-07,FALSE,TRUE
+"Ray (2004)",2005-02-27,FALSE,TRUE
+"Room (2015)",2016-02-28,FALSE,TRUE
+"Saving Private Ryan (1998)",1999-03-21,FALSE,TRUE
+"Seabiscuit (2003)",2004-02-29,FALSE,TRUE
+"Secrets & Lies (1996)",1997-03-24,FALSE,TRUE
+"Selma (2014)",2015-02-22,FALSE,TRUE
+"Sense and Sensibility (1995)",1996-03-25,FALSE,TRUE
+"Shakespeare in Love (1998)",1999-03-21,TRUE,TRUE
+"Shine (1996)",1997-03-24,FALSE,TRUE
+"Sideways (2004)",2005-02-27,FALSE,TRUE
+"Silver Linings Playbook (2012)",2013-02-24,FALSE,TRUE
+"Slumdog Millionaire (2008)",2009-02-22,TRUE,TRUE
+"Spotlight (2015)",2016-02-28,TRUE,TRUE
+"The Artist (2011)",2012-02-26,TRUE,TRUE
+"Aviator, The (2004)",2005-02-27,FALSE,TRUE
+"The Big Short (2015)",2016-02-28,FALSE,TRUE
+"Blind Side, The  (2009)",2010-03-07,FALSE,TRUE
+"Cider House Rules, The (1999)",2000-03-26,FALSE,TRUE
+"Curious Case of Benjamin Button, The (2008)",2009-02-22,FALSE,TRUE
+"Departed, The (2006)",2007-02-25,TRUE,TRUE
+"Descendants, The (2011)",2012-02-26,FALSE,TRUE
+"English Patient, The (1996)",1997-03-24,TRUE,TRUE
+"Fighter, The (2010)",2011-02-27,FALSE,TRUE
+"Full Monty, The (1997)",1998-03-23,FALSE,TRUE
+"Grand Budapest Hotel, The (2014)",2015-02-22,FALSE,TRUE
+"Green Mile, The (1999)",2000-03-26,FALSE,TRUE
+"Help, The (2011)",2012-02-26,FALSE,TRUE
+"Hours, The (2002)",2003-03-23,FALSE,TRUE
+"Hurt Locker, The (2008)",2010-03-07,TRUE,TRUE
+"The Imitation Game (2014)",2015-02-22,FALSE,TRUE
+"Insider, The (1999)",2000-03-26,FALSE,TRUE
+"Kids Are All Right, The (2010)",2011-02-27,FALSE,TRUE
+"King's Speech, The (2010)",2011-02-27,TRUE,TRUE
+"Lord of the Rings: The Fellowship of the Ring, The (2001)",2002-03-24,FALSE,TRUE
+"Lord of the Rings: The Return of the King, The (2003)",2004-02-29,TRUE,TRUE
+"Lord of the Rings: The Two Towers, The (2002)",2003-03-23,FALSE,TRUE
+"Martian, The (2015)",2016-02-28,FALSE,TRUE
+"Pianist, The (2002)",2003-03-23,FALSE,TRUE
+"Postman, The (Postino, Il) (1994)",1996-03-25,FALSE,TRUE
+"The Queen (2006)",2007-02-25,FALSE,TRUE
+"Reader, The (2008)",2009-02-22,FALSE,TRUE
+"The Revenant (2015)",2016-02-28,FALSE,TRUE
+"Sixth Sense, The (1999)",2000-03-26,FALSE,TRUE
+"Social Network, The (2010)",2011-02-27,FALSE,TRUE
+"The Theory of Everything (2014)",2015-02-22,FALSE,TRUE
+"Thin Red Line, The (1998)",1999-03-21,FALSE,TRUE
+"Tree of Life, The (2011)",2012-02-26,FALSE,TRUE
+"Wolf of Wall Street, The (2013)",2014-03-02,FALSE,TRUE
+"There Will Be Blood (2007)",2008-02-24,FALSE,TRUE
+"Titanic (1997)",1998-03-23,TRUE,TRUE
+"Toy Story 3 (2010)",2011-02-27,FALSE,TRUE
+"Traffic (2000)",2001-03-25,FALSE,TRUE
+"True Grit (2010)",2011-02-27,FALSE,TRUE
+"Up (2009)",2010-03-07,FALSE,TRUE
+"Up in the Air (2009)",2010-03-07,FALSE,TRUE
+"War Horse (2011)",2012-02-26,FALSE,TRUE
+"Whiplash (2014)",2015-02-22,FALSE,TRUE
+"Winter's Bone (2010)",2011-02-27,FALSE,TRUE
+"Zero Dark Thirty (2012)",2013-02-24,FALSE,TRUE
