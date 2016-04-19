@@ -1,3 +1,6 @@
+## This script calculates predictions for the Academy Award for "Best Picture"
+# Run this script to see the algorithm select the suprise winner in 2016, "Spotlight"
+
 yearstopredict=2016
 nruns=500
 
